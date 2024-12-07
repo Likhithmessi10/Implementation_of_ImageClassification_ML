@@ -1,0 +1,1 @@
+The error Unrecognized keyword arguments: ['batch_shape'] indicates that the model file cifar10_model.h5 was saved in a way that is not fully compatible with your current TensorFlow/Keras version. To resolve this, we need to ensure the model is loaded and re-saved in a compatible format.
